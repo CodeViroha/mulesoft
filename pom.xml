@@ -37,9 +37,9 @@
 					
 					<muleVersion>4.3.0</muleVersion>
 					
-					<username>VivekDoshi-internal</username>
+					<username>${anypoint.username}</username>
 					
-					<password>Internal@123</password>
+					<password>${anypoint.password}</password>
 					
 					<applicationName>hello-world-cicd-github</applicationName>
 					
